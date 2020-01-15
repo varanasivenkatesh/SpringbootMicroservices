@@ -1,0 +1,4 @@
+# SpringbootMicroservices
+SpringbootMircroservices
+
+Default UserDetailsService and Websecurity sample
